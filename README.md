@@ -29,7 +29,7 @@ ______
 _____  
 ## 데이터 모델링
 
-![manggomModeling](https://github.com/user-attachments/assets/a3f98ba5-3184-4e86-85fc-2f954147bf49)
+
 
 
 ______
